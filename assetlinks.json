@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.walmart.mg",
-    "sha256_cert_fingerprints":
-    ["AC:57:FB:20:FF:51:CB:33:79:E9:BD:61:DE:4C:74:96:23:CF:E2:51:4D:F5:7A:0F:D8:5B:F9:76:5B:6C:50:9C"]
-  }
-}]
